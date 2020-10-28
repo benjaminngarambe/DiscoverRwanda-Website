@@ -1,0 +1,96 @@
+/*Extra small devices */
+@media (max-width: 776px) {
+
+/*body{
+  background-color: blue;
+}*/
+
+.box {
+  max-width : 100%;
+  padding : 1em;
+}
+
+article#actus {
+  display: block;
+}
+
+section#page {
+  width: 100vh;
+} 
+
+.present {
+  display: block;
+}
+
+#intro {
+  margin: 2%;
+  width: 100%;
+}
+
+video {
+  width: 100%;
+}
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 778px) and (max-width: 1280px) {
+
+/*body{
+		background-color: red;
+	}*/
+
+article#actus {
+  display: block;
+}
+
+.box {
+  max-width : 100%;
+}
+
+section#page {
+  width: 100vh;
+}
+
+.present {
+  display: block;
+}
+
+#intro {
+  margin: 2%;
+  width: 100%;
+}
+
+video {
+  width: 100%;
+}
+
+}
+
+
+@media screen and (max-width: 900px) {
+  .column {
+    width: calc((100% / 2) - 50px);
+  }
+  .socials {
+    margin-top: 45px;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .column {
+    width: calc((100% / 1) - 50px);
+    text-align: center;
+  }
+  .column a {
+    justify-content: center;
+  }
+
+  .icon a {
+    justify-content: center;
+  }
+  .socials, .links {
+    margin-top: 45px;
+  }
+
+}
