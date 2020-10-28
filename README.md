@@ -14,5 +14,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update the tests as appropriate.
 
 ## License
-Copyright (c) 2020 Benjamin Ngarambe
+Copyright (c) 2020 Benjamin Ngarambe.
 LicenseFinder is released under the MIT License. http://www.opensource.org/licenses/mit-license
