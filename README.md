@@ -1,5 +1,5 @@
 <a href="https://www.instagram.com/ngarambe_benjamin/">
-  <img src="benjamin Logo.png" alt="Discover Rwanda" >
+  <img src="https://thecommonwealth.org/sites/default/files/styles/press_release_large/public/images/hero/Kigali_Convention_Centre620.jpg?itok=_QFo972q" alt="Discover Rwanda" >
 </a>
 
 # Discover Rwanda
